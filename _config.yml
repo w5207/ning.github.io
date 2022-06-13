@@ -19,19 +19,19 @@ title: Python Developer
 darkmode: false
 
 # Social links
-# twitter_username: jekyllrb
+twitter_username: 
 github_username:  w5207
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
+stackoverflow_username: 
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
 linkedin_username: 5207
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
+xing_username: 
+pinterest_username: 
+youtube_username: 
+orcid_username: 
+googlescholar_username:
 
 # Additional icon links
 additional_links:
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image:  
+about_profile_image: image/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
