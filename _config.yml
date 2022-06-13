@@ -34,10 +34,10 @@ github_username:  w5207
 # googlescholar_username:
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,11 +50,14 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: image/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I graduated from the University of Waterloo with a Bachelor degree of Mathematics, Honours in Computational Mathematics and Honours in Statistics.
+  
   I am now working as a Python Developer at BMO Financial Group.
+  
   China->Canada
+
   An Indie Developer(hopefully)
 
 content:
@@ -81,7 +84,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: BMO Financial Group
         sub_title: Python Developer
         caption: May 2022 - present
@@ -93,8 +96,8 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
+      - layout: left
+        title: University of Waterloo
         sub_title: Honours Bachelor of Mathematics in Statistics and Computational Mathematics
         caption: 2016 - 2021
         # quote: >
