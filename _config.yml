@@ -50,7 +50,7 @@ github_username:  w5207
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.JPEG
 about_content: | # this will include new lines to allow paragraphs
   I graduated from the University of Waterloo with a Bachelor degree of Mathematics, Honours in Computational Mathematics and Honours in Statistics.
   
