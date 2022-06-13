@@ -52,9 +52,9 @@ github_username:  w5207
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.JPEG
 about_content: | # this will include new lines to allow paragraphs
-  I graduated from the University of Waterloo with a Bachelor degree of Mathematics, Honours in Computational Mathematics and Honours in Statistics.
+  Graduated from the University of Waterloo with a BMath, Computational Mathematics and Statistics.
   
-  I am now working as a Python Developer at BMO Financial Group.
+  Working as a Python Developer at BMO Financial Group.
   
   China->Canada
 
@@ -98,7 +98,7 @@ content:
     content:
       - layout: left
         title: University of Waterloo
-        sub_title: Honours Bachelor of Mathematics in Statistics and Computational Mathematics
+        sub_title: BMath
         caption: 2016 - 2021
         # quote: >
         #   Short institution or course description (optional)
